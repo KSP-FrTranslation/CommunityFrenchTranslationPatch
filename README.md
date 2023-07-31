@@ -1,1 +1,1 @@
-# CorrectifFr
+# Community French Translation Patch
