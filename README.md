@@ -7,7 +7,7 @@
 
 
 
-# Community French Translation Patch
+# Correctif Traduction Française
 Ce mod a pour objectif de corriger la traduction française de KSP.
 
 
