@@ -1,12 +1,3 @@
-![GitHubBanner](https://github.com/KSP-FrTranslation/CommunityFrenchTranslationPatch/assets/35108858/6dab7d9a-bea3-464e-9634-19acd4dfacdd)
-
-
-
-
-
-
-
-
 # Correctif Traduction Française
 Ce mod a pour objectif de corriger la traduction française de KSP.
 
